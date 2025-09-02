@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57482ee29e366ae42a67b02673ec6b09, type: 3}
+  m_Name: Stone
+  m_EditorClassIdentifier: 
+  ResourceName: Stone
+  Prefab: {fileID: 4182352734368086489, guid: 18983607dc3e26644a0c0ffddf22525f, type: 3}
+  PoolSize: 25
+  collectionEffect: {fileID: 1483826050005621826, guid: ab2f11b2e73ad064f904a5333632b269, type: 3}
+  collectionSound: {fileID: 8300000, guid: c2d54780dd9e6d64eb3a32309fbfe5c6, type: 3}

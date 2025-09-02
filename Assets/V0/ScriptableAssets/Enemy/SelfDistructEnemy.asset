@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adac0d6bf7fd37d438e0cbc791310a36, type: 3}
+  m_Name: SelfDistructEnemy
+  m_EditorClassIdentifier: 
+  EnemyName: SelfDistruct
+  Prefab: {fileID: 8487595017676520190, guid: d654a11b80152364f8e69ae69772215b, type: 3}
+  PoolSize: 4
+  BloodEffect: {fileID: 1483826050005621826, guid: 5e9e734f4d5e53041a0ca8afd7ed101f, type: 3}
